@@ -3,7 +3,7 @@
 namespace Dashboard.Domain.Post
 {
     /// <summary>
-    /// Сущность объявлений.
+    /// Сущность объявлений
     /// </summary>
     public class Post : BaseEntity
     {
