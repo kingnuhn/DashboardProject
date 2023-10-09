@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Dashboard.Domain": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "G:\\CODS\\DashboardProject\\DashboardProject\\Dashboard\\Host\\Dashboard.Host.Api\\Dashboard.Host.Api\\Dashboard.Host.Api.csproj.user"
+    },
+    "Профиль 2": {
+      "commandName": "Project",
+      "workingDirectory": "G:\\CODS\\DashboardProject\\DashboardProject\\Dashboard\\Host\\Dashboard.Host.Api"
+    },
+    "Профиль 3": {
+      "commandName": "Executable",
+      "executablePath": "G:\\CODS\\DashboardProject\\DashboardProject\\Dashboard\\Host\\Dashboard.Host.Api\\Dashboard.Host.Api\\Dashboard.Host.Api.csproj.user"
+    }
+  }
+}
